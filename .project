@@ -29,67 +29,77 @@
 		<link>
 			<name>RTE/Device/Montana/calibrate.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/calibratelib/code/calibrate.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/calibratelib/code/calibrate.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/calibrate_clock.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/calibratelib/code/calibrate_clock.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/calibratelib/code/calibrate_clock.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/calibrate_power.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/calibratelib/code/calibrate_power.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/calibratelib/code/calibrate_power.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/clock.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/HAL/source/clock.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/clock.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/flash_copier.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/HAL/source/flash_copier.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/flash_copier.c</locationURI>
+		</link>
+		<link>
+			<name>RTE/Device/Montana/go_to_sleep_asm.S</name>
+			<type>1</type>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/go_to_sleep_asm.S</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/lsad.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/HAL/source/lsad.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/lsad.c</locationURI>
+		</link>
+		<link>
+			<name>RTE/Device/Montana/power_modes.c</name>
+			<type>1</type>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/power_modes.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/rffe.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/HAL/source/rffe.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/rffe.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/sassert.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/HAL/source/sassert.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/sassert.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/sbrk.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/cmsis/source/sbrk.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/cmsis/source/sbrk.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/start.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/cmsis/source/start.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/cmsis/source/start.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/trim.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/HAL/source/trim.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/trim.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/trim_vddif.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/HAL/source/trim_vddif.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/trim_vddif.c</locationURI>
 		</link>
 		<link>
 			<name>RTE/Device/Montana/uart.c</name>
 			<type>1</type>
-			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/B.2.1-62/firmware/source/lib/HAL/source/uart.c</locationURI>
+			<locationURI>$%7Bcmsis_pack_root%7D/ONSemiconductor/Montana/1.0.673/firmware/source/lib/HAL/source/uart.c</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
